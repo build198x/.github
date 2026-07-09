@@ -1,10 +1,6 @@
 # Build198x — org container
 
-This folder is the local mirror of the **`build198x` GitHub org**. It is a
-*container*, not a git repo: each subfolder is its own independent repo with its
-own history and remote (the same pattern as `Code198x/`, `Asm198x/`, `Cat198x/`,
-and `Forge198x/`). The umbrella `198x/` repo gitignores this folder; commit
-inside the specific subfolder, never here.
+This folder is the org container for the **`build198x` GitHub organisation**. It is not a Git repo; each child folder is an independent repo with its own remote. Commit inside the repo that owns the file.
 
 Build198x is the 198x family's **build-tools pipeline** — asset conversion, data
 packing, and media mastering: everything between authored source/assets and a
