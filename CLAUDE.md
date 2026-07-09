@@ -12,11 +12,9 @@ runnable artifact that is neither assembly (Asm198x) nor emulation (Emu198x). Se
 the umbrella context at [`../CLAUDE.md`](../CLAUDE.md) and the binding decision at
 [`../decisions/build198x-build-tools.md`](../decisions/build198x-build-tools.md).
 
-**Status: active as of 2026-06-11.** The demand gate opened on curriculum
-production's need for image conversion (see
-`build198x/decisions/demand-gate-opening.md`); wave 1 (the `mediaspec` capability
-spec + image→native converter) is merged and active. The wider roster stays demand-gated per
-tool.
+**Status: active.** The flagship workspace contains the current build-tools
+implementation, including the shared media capability layer and image conversion
+work. The wider tool roster remains demand-gated per tool.
 
 ## Repos in this org
 
