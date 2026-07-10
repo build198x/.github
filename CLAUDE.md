@@ -19,6 +19,7 @@ work. The wider tool roster remains demand-gated per tool.
 | [`build198x/`](build198x/) | `build198x/build198x` | **Flagship.** The build-tools workspace (active with wave-1 image converter). |
 | [`.github/`](.github/) | `build198x/.github` | Org profile (`profile/README.md`) and shared community-health files. |
 | [`docs/`](docs/) | `build198x/docs` | Design notes; user docs in time. |
+| [`build198x.github.io/`](build198x.github.io/) | `build198x/build198x.github.io` | Public site (Astro, GitHub Pages via Actions). House style mirrors `emu198x.github.io`. |
 
 ## Working here
 
